@@ -1,0 +1,36 @@
+However, Meta’s real-world data practices, as outlined in the previous sections, 
+demonstrate persistent tension with these legal standards. The Cambridge 
+Analytica case revealed that millions of Facebook users’ personal data was collected 
+and used to create psychological profiles without valid consent, undermining the 
+GDPR principles of lawfulness and transparency. Later enforcement actions by the 
+Irish Data Protection Commission showed structural weaknesses in Meta’s data 
+protection practices. The €265 million fine imposed in 2022 showed that Facebook’s 
+design choices enabled large-scale data scraping, violating Article 25 GDPR [17] by 
+failing to embed adequate privacy safeguards. Similarly, the record €1.2 billion fine 
+in 2023 confirmed that Meta unlawfully transferred EU user data to the United 
+States without sufficient protection, breaching Article 46 GDPR [18] and placing 
+user data beyond effective EU control. At last, the €91 million fine for storing 
+passwords in plain text illustrated failures to meet basic security obligations 
+under the GDPR. Together, these cases show that although EU law provides strong 
+rules to protect privacy, Meta’s use of AI-driven data collection and profiling makes 
+it very difficult for users to truly control their online data trail. 
+
+3.4 Tomorrow in a Fog: Privacy Lost in Algorithms 
+
+Artificial intelligence mediates the relationship between users and digital 
+platforms. From mobile phones and cars to online services, AI helps make daily 
+tasks faster, easier, and more efficient. If artificial intelligence had to be described 
+in three steps, they would be: (1) collecting large amounts of data, (2) using this data 
+to train models, and (3) producing outcomes such as decisions or predictions. In 
+other words, data collection is a key part of how AI systems learn and improve. 
+Because of this process, users receive personalized content, useful recommendations,
+and advertisements that match their interests. In many ways, data collection has 
+made modern life more connected and convenient. 
+
+However, AI profiling and constant data collection are far more risky than they 
+first appear. When a digital service is offered for free, users often pay with their 
+personal data instead of money. In this sense, users themselves become the product.
+Meta’s core business model is built on collecting, analysing, and monetising 
+people’s data. Despite receiving numerous fines and regulatory warnings, the 
+company has continued to expand its data-driven practices, often pushing legal
+and ethical boundaries.

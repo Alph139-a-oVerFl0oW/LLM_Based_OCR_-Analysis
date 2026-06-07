@@ -1,0 +1,36 @@
+This issue is not limited to Meta alone. Many technology companies, including Apple and OpenAI, rely on user data to develop and improve new AI 
+systems. In a competitive digital market, companies feel pressured to adopt advanced data-driven technologies in order to survive. If one company 
+introduces a powerful AI system, others are likely to follow sooner or later. A well-known example is Nokia, which failed to adapt to the rise of 
+Android smartphones and eventually lost its position in the market. Similarly, today’s technology companies view data collection and AI training as 
+necessary for survival, even when it raises serious concerns about privacy and user control. 
+
+This raises an important question: are we blindly following AI? In many ways, the answer appears to be yes. Even though AI technology seems highly 
+engaging and dopamine-boosting, it is still harmful. The future is even more dangerous. AI profiling and data tracking are expected to grow even 
+further, making the future of digital privacy more concerning. In this context, it is important to mention Meta’s recent innovation known as Ray-
+Ban Meta Smart Glasses. These smart glasses combine eyewear with built-in AI and allow users to take photos, record audio, and interact with Meta
+AI through voice commands. However, these glasses raise serious privacy concerns. They can easily record audio and video of people nearby without
+their knowledge. Although there is a small LED light to show when the camera is on, many critics say it is too easy to miss, meaning most people may
+not realize they are being recorded. The concern is not only about recording, but also about how this data can be sent to AI systems that analyse
+conversations, recognise objects, and link information to online data. These concerns are especially significant in the European Union, where stricter
+rules apply to the GDPR. Given Meta’s past privacy violations, the introduction of such technologies raises serious questions about how far data-driven
+ AI systems will go and what this means for future privacy protection.
+  
+4. Conclusion 
+
+To sum up the questions introduced in the beginning of the essay, the evidence and arguments presented in this essay address them directly.
+
+From the analysis, it is clear that Meta’s AI-driven data tracking and profiling practices significantly threaten online privacy by reducing users’
+awareness and control over how their personal data is collected and analyses. Advanced profiling tools operate largely in the background, making it
+difficult for individuals to understand or meaningfully influence their online data trail.
+ 
+As for the second question, the analysis of EU data protection laws shows that frameworks such as the GDPR and the Digital Markets Act do place
+important legal limits on these practices through strict consent requirements, transparency obligations, and substantial financial penalties. However,
+while these laws offer a level of protection and have forced companies to adjust some of their data strategies, user control remains limited and
+fragile in the face of increasingly powerful AI profiling technologies. In my opinion, companies should be transparent about which user
+data they collect, where and why this data is used, how long it is stored, and how it is processed. In addition, since European laws are
+different, companies should adapt their platforms to follow each country’s laws. Beyond this, there should be new regulations that
+clearly define which user data companies are allowed to use for their AI systems or algorithms. These rules should exist outside of
+company policies and be controlled by law, so that violations can be properly identified and punished. It is clear that privacy is becoming
+weaker day by day due to the rapid use of AI. Law alone cannot fully stop this trend unless users from all countries are willing to take
+action and demand stronger protection. However, as we all know, most users are unlikely to take such action or stop using these
+technologies, as they continue to enjoy the benefits of AI while neglecting how their data is being stolen and used.
