@@ -1,0 +1,32 @@
+thein data’ is ubed, [8]. Users can now choose between sharing all their data, for highly
+personalized ads or sharing less data for more. general ads. This change will replace the old,
+‘conbent or pay "system, which reqiuired. uber’ to: either accept data, thacking forpersonaliged adb
+or pay to ube the platforms iuithout ads [8]. Without access to highly personal information,
+Meta’s ads will rely on contextual targeting, which meant backend engineering work, to collect
+different types of data ti ather ways. For aduertisers, it could mean that they bee weaker return’
+tuith targeting becoming less efficient among users who have declined participation [8].
+
+Nenna Virkkunen, Executive Vice President for Technological Soucreignty, Security, and
+Democracy; stated that the Digital Markets Cet is built around pratecting free choice for bath
+dubinedses and. cansumers [8]. She emphabiged. that individuals must have complete control auer
+how and when their personal data is ubed online, while companies should be able ta communicate
+freely with their customers [8].
+
+The European Commission albo. stated. that it will continue to. monitor WMeta's compliance aid.
+will collect feedback from. VNeta and other stakeholders once the model. is implemented [8]. With
+limited access ta highly personal data, VNeta’s ads will increasingly rely on contesdual targeting,
+meaning ads will be baked more on content and. contesd rather than detailed uber profiling [8].
+
+3:3 Legal Neat on WMetiz
+
+Exropean Union data protection law, places strict obligations on platforms that phacess personal
+data at seale, particularly uihen automated profiling and. artificial intelligence are inualued: The
+General: Bata Protection Regulation (GIP) requires that personal data be processed,
+lawfully, transparently, and. for. limited purposes (Cnticle 5 GBI) [9]. Platforms must
+haue a valid. legal babi for processing data (Ciiticle 6) [10], ensure that consent is freely given
+and, informed (Ciiticles 4(11). [11] and Ciiticle 7 [12]), and provide clear information about
+hou: personal data i collected, combined, and, analysed (Apticles 12-14): [13- 15]. Qn the
+affects individuals. (CUiticle 22) [16] and grants users rights to access, rectify, and. erase thei
+data, Together, these provibions are intended ta giue individuals. meaningful contral ouer their
+online data, trail; even when advanced C0 systems are ubed. to. analyse, their behaviour.
+

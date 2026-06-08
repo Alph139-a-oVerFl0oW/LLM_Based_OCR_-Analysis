@@ -1,0 +1,37 @@
+In May 2023, another incident happened again with Lreland’s Data Protection Commission (DPC). The DPC.
+fined Meta €1.2. billion for mishandling the personal data of European users, marking the largest penalty ever
+ander the EU's General Data Protection Regulation (GDFR) [5]. The fine came after a long investigation into
+how the company transferred user data from the EU +o the United States of America without adequate
+safeguards, despite a European Court of Justice ruling requiring strong protections for such transfers (5). The
+DPC found that Meta continued +o send large volumes of Facebook users’ personal data to the USA on the basis
+of standard contractual causes (SCCs) that did not sufficiently protect individuals’ privacy rights, exposing
+that data to potential access by US intelligence agencies, Because these clauses failed to meet GDTR standards,
+the regulator concluded that Meta was im breach of Article 4¢(1) of the GPFR [18], which governs secure
+intemational data transfers [5]. Also in Cotober 202.4, Meta was fued £41 million by the DPC again for storing
+some Facebook users’ passwords in plain text within its internal systems. This practice did not meet basic
+security standards, which require passwords to be protected using cryptographic methods (5),
+
+2.3 Weta’s Silent Data Harvesting Algorithwie Practices Explained
+
+During the carly development of Meta’s advertising system, Meta introduced a synail tracking script known as
+the “Meta pixel” [7], This technology is designed +o observe and analyze user behavior, mourtoring Mow visitors
+navigate websites, interact with content, and respond +o advertisements, In doing so, it cam also transmit
+highly seusitive information, such as financial data from tax filing platforms or medical details from healthcare
+websites, directly into Meta’s surveillance-based advertising ecosystem [7].
+
+In addition, Meta’s tracking pixel was secretly sending data to Meta’s own Android apps by exploiting localhost,
+a feature intended for developer testing [7]. This bypassed Android's app sandboxing, which is designed +o
+prevent apps from communicating with cach other and created a hidden data channel between mobile browsers
+and Weta apps,
+
+ft the same time, metra-attempts to connect data from “anonymous” website visttors to real Meta user
+accounts by using signals such as IP addresses and cookies [7]. Meta made this identification much easier by
+sending data directly from its tracking pixel +o Weta’s own apps, where users were already logged im, This meant
+that even users who blocked or deleted cookies, used a VPN +o hide their IP address, or browsed im incognito
+wmode could still be identified [7]. Once this practice was publicly revealed, Meta quickly paused the technique and
+stated that they were in discussions with Google about “a potential miscommunication regarding the application
+of their policies” [7].
+
+3. Law, Data Protection, and the Path Forward
+
+3.4 What Users Can Do to Reduce Data Tracking

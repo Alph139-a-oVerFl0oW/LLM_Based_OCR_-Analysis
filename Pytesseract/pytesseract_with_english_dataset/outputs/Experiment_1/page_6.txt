@@ -1,0 +1,36 @@
+This issue 1s not limited to Meta alone. Many technology companies, including Apple and Opendl, rely on user data to develop and improve new Al
+systems. In competitive digital market, compantes feel pressured to adopt advanced data-driven technologies tn order to survive. If one company
+Introduces a powerful Al system, others are likely to follow sooner or later. A well-known example ts Nokia, which fatled to adapt to the rise of
+Android smartphones and eventually lost 1ts posttion in the market. Similarly, today’s technology companies view data collection and Al training as
+necessary for survival, even when Tt ratses serfous concerns about privacy and user control.
+
+This raises an Important question. are we blindly following Al? In many ways, the answer appears to be yes. Even though Al technology seems highly
+engaging and dopamine-boosting, rt 1s stil! harmful. The future is even more dangerous. Al profiling and data tracking ane expected to grow even
+further, making the future of digital privacy more concerning. fn this context, 1t 1s Important to mention Meta’s recent innovation known as Ray-
+Ban Meta Smart Glasses. These smart glasses combine eyewear with built-in Al and allow users to take photos, record audio, and interact with Meta
+Al through votce commands. However, these glasses raise serfous privacy concerns. They can easily record audio and video of people nearby without
+‘their knowledge. Although there is a smal] LED light to show when the camera Is on, many critics say tt 1s too easy to miss, meaning most people may
+not realize they are being recorded. The concern is net only about recording, but also about how this data can be sent to Al systems that analyse
+conversations, recognise objects, and link information to online data. These concerns are especially significant in the European Unton, where stricter
+rules apply to the GDPR. Given Meta’s past privacy violations, the introduction of such technologies raises serious questions about how far data-driven
+Al systems will go and what this means for future privacy protection.
+
+4. Concluston
+
+To sum up the questions tntroduced tn the beginning of the essay, the evidence and arguments presented tn this essay address them directly.
+
+From the analysis, rt is clear that Meta’s Al-driven data tracking and profiling practices significantly threaten online privacy by reducing users’
+cwrareness and control over how their personal data ts collected and analyses. Advanced profiling tools operate largely in the background, making tt
+difficult for tndividuals to understand or meaningfully influence thetr online data trail.
+
+As for the second question, the analysis of EU data protection laws shows that frameworks such as the GDPR and the Digital Markets Act do place
+Important legal limits on these practices through strict consent requirements, transparency obligations, and substantial financial penalties. However,
+whtle these lavrs offer a level of protection and have forced compantes to adjust some of their data strategies, user control remains limited and
+fragile in the face of increasingly powerful Al profiling technologies. in my opinion, compantes should be transparent about which user
+data they collect, where and why this data ts used, how long it ts stored, and how tt is processed. fn addition, since European laws are
+different. companies should adapt their platforms to follow each country’s laws. Beyond this, there should be new regulations that
+clearly define which user data companies are allowed to use for their AT systems or algorithms. These rales should exist outside of
+company policies and be controlled by lav, so that violations can be properly identified and punished. ft is clean that privacy is becoming
+weaker day by day due to the rapid use of AL. Law alone cannot fully stop this trend unless users from all countries ane willing to take
+action and demand stronger protection. However, as we all know, most users ane unlikely to take such action or stop using these
+technologies. as they contince to enjoy the benefits of Al while neglecting how their data is being stolen and used.

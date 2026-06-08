@@ -1,0 +1,39 @@
+2. Meta’s Al-Driven ‘Data Collection and Profiling
+
+2.1 How Meta Officially Stores User Data
+
+According ta Meta’s official website, its pavacy policy explains what information is collected from users and why it sneeded. This includes content
+peagile share.on facebook, such as posts, messages and profile detaits, as well as technical informatton tram devices. Meta states that this data
+1S used to fun the service properly, marove features, keep accounts safe, and show celevant content and advertisements (2), The policy describes
+differerk types of stored data in a clear way. This includes basic account details and shared content, information about how users interact with the
+plationm and detats about connections bbe friends and fallowers. It also covers technical data, such as device infarmation, 1P addresses, cookies,
+and location data when enabled. These data types help: Meta understand how As services are used and ensure they work smoothly [2].
+
+The update also amis to make privacy practices éasie( to uniierstand. Méta explains that no new data collection methods are beng invaduced, *
+but existing Gnes are described more clearly, Users are informed about their nights, how thelr information may be shared, and how they can
+contral their privacy through available settings and took: {2},
+
+2.2 Controversies Over Meta's Secrat Dats Collection
+
+Even though Meta explains its data collection procedures, es deseribed in the previous section, in reality, its practices tell a different story. Jn March
+2018, the Guarchan reposted that the data analytics Hrm Cambndge Analytica, wheh worked with Donald Trump's election team and the Brextt
+campaign, harvested-qnilkons of Facebook profiles without user consent-to butld systems that could influence yoter behaviour [3]. The data was
+taken in early 2014 through a researcher's app aod was used to build psychological profiles of individual isers. This information was then used te
+target political advertisements desygned torinfluence people’s choices at the bakat box [3}.
+
+Chiestopher Wylie, a former employee af Cambridge Analytica, revealed that Facebook data was used to create paychological profes of users in
+order to influence their pottical views (3), He explained that this data was collected through a researcher's app and used to predict and target
+people based on thelr emotions ind behaviour. Intethat Facebook documents later shéwed that by late 2015, the company was aware that large
+amounts of user dats had Been collected lmproperiy, but users were not deady nifarmed and the data was aot fully protected (3)
+
+Alter the misuse became pubkc, Facebook suspended Cambridge Analytica snd the researcher invotved. However, at the time the {sue was
+diseaveted, Facebook intially uniniized the seriousness of the situation and claimed the data collection (allowed normal procedures [3]-In realty,
+‘sharng the data with third partics violated Fatebook’s own-sutes, which raised concerns about how well the’ company cpntrolled-access to user
++ soformation {3]. 7 : .
+€oncerns about Meta’s data practices continued in later years. In November 2022, Meta was fined €265 mifion by the Irish’ Data Protection
+Commission after an investigation found that Facebook features such as search functions and contact importer tots were designed without
+sufficient prewacy saleguards [4]. These features made it possible for large amounts af personally identifiable information [PH) such 9s names,
+phone numbers, aod email addresses of hundreds of miflons of users to he collected and exposed through data scraping [4]. The DPC concluded
+that Meta vidlated GOPR Aittcle 25, which requires data arotection by design nd by defaut, because it falled to bulkd adecuate technical and
+organizationat measures into these systems to prevent mistise of user data [4],
+
