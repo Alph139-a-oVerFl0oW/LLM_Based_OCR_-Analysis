@@ -11,7 +11,7 @@ and connected devices. For activities done only occasionally, like shopping or b
 websites are generally the safer option [6].
   
 Removing Meta apps from a phone can further limit data collection, as these apps allow deeper 
-access to user data [6].  Previous experiences show that these companies cannot be fully trusted, 
+access to user data [6]. Previous experiences show that these companies cannot be fully trusted, 
 as their apps allow them to collect more information than websites usually can. Even without 
 these apps, Meta can still collect data about what users do online [6]. This is because many 
 websites use Meta’s tracking tools. As a result, it is difficult for users to completely avoid being 
