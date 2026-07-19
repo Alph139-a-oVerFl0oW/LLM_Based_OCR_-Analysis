@@ -1,0 +1,30 @@
+Even though meta has pauped this specific technique, it is likely that new tracking methods will
+appearover time. Online privacy is harder to protect than it may seem. Privacyseltings alone are
+often not enough to stop companies like Meta from collecting wer data, as they have shown that
+built-in security protections on Android devices can be biypassed. One simple way to reduce
+tracking is to use a more privacy friendly browser [6]. Chrome allows many tracking methods,
+while browsers such as Firefox, Brave, DuckDuckGo, and Safarioffer better protection. Android
+usew can set these browsers as their default, and Appte wers can rely on Safari, even though no
+browser can fully block all tracking. ubing weboites instead of mobile apps can aiso help protect
+privacy. Apps usually have access to more personal information,such as location,device details,
+and connected devices. For activities done only occasionally, like shopping or booking travel.
+websites are generally the saferoption [6].
+Removing Meta apps from a phone can further limit data collection, as these apps allow deeper
+access to user data [6]. Previous experiences show that these companies cannot be fully trusted,
+as their apps allow them to collect more information than websites usually can. Even without
+these apps, meta can still collect data about what users do online [6]. This is because many
+websites use Meta's tracking tools. As a result, it is difficult jor users to completely awoid being
+tracked [6].
+3.2 meta Redesigno Ito Data Strategy for European Usero
+With all the penalties it has faced, is meta making a meaningful effort to reforim its data practices?
+After Meta reached a e,200 million fine by Ell in April 2025, the company decided to change its
+rules for Ell users. Meta was fined e200 million under the European llnion's Digitat Markets Act
+(DmA) [8]. The fine was issued because the Eltstated that meta's "consent or pay" model does not.
+comply with the rules of the DmA [8]. Under this syptem, users of Facebook and Instagram had
+to either agree to the merging of their personal data for personalized advertising or pay a
+subscription fee to avoid ads I8]. The European Coonmission argued that this model does not
+provide users with real and freely given consent, which violates DmA requirements.
+In upcoming January 2026, following the satisfactory concluwion of a months-long Digital
+Markets Act negotiation with the European Commission, Meta will offer European-users on.
+Facebook and Instagram a new choice that allows reduced data sharing for less personalized
+advertising [8]. This updated advertising syptem i only for the users in the European Uinion.

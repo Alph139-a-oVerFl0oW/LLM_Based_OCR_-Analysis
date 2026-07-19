@@ -1,0 +1,33 @@
+their, data, iss ubed [8]. Users can now choose. between sharing all their data for highly
+personalized, ads. or sharing lets data for more general ads, This change will replace the ald.
+“conkent or pay “system, which required ubers to. either accept data hacking for personalized ads
+or pay to ube the platforms without ads [8]. Without access ta highly personal information,
+Metis ads will rely on contertual targeting, which means backend engineering work to. collect
+different types of data in other ways. For aduettisers, it could mean that they bee weaker returns
+watth targeting becoming lebs efficient among ubers who have declined participation [8].
+
+Nenna Vitkkunen, Executive Vice President far Technological Sovereignty, Security, and.
+Demachacy, stated that the Digital Markets Clct is built ahound protecting free choice for both
+bubinedses and consumers [8]. She emphasiged that individuals must have complete control ouer
+how and when their personal data is ubed online, while companies should be able to. communicate
+freely with their customers [8].
+
+The European Commission alsa stated that it will continue to: monitor WMeta's compliance and.
+tail collect feedback from Weta and other stakeholders once the madel. is implemented. [8], With
+limited avcess to: highly personal data, WMeta’s aids will increasingly rely on conteatual targeting,
+meaning ads will be based. more on content and. contest rather than detailed uber profiling [8].
+
+3,3. Legal Heaton Meta
+
+Eirapean Union data protection lau places strict obligations, on platforms that process personal
+data at scale, particularly when. automated profiling and artificial intelligence are inualued. The
+General. Bata Protection Regulation (GLI) requires that personal data be processed,
+lawfully, tantparently, and for limited purposes (Cliticle 5 G.BPR) [0]. Platforms must
+haue a ualid legal babis for processing data (Uticle 6) [10], ensure that, consent ik freely given
+and informed. (Chiicles 4(11) [11] and Ciiticle 7 [12]), and provide clear information about
+how personal data is collected; combined, and analysed (Ciiticles 12-14) [13-15], Qn the
+contest of Cl2 profiling, the GIT also: limits automated. decision-making that significantly
+affects individuals, (CUiticle:22) [16] and grants users rights to access, rectify, and. erabe their
+data. Together, these provisions dre intended to: give individuals meaningful contral ouer their
+online data, thail, even when advanced C0 iystemss are ubed to analyse their behaviour.
+

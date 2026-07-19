@@ -1,0 +1,31 @@
+In May 2023, another icident happened dgain with Ireland's Data Protection Commission (DpC). The DPc
+fined meta e:2 billion for mishanding the personal data of Enropcan asors, marking the largest penalty ever.
+under the El's General Data Protection Regulation (GDpR) [5]. The fine came after a long investigation into
+hove the company transferred aser data from the Eu to: the Uinited States of America without adeguate
+safeguards despite a Earapean Court of Justice ruling requiring strong protections for such transfers [5]. The
+DPC found that Meta contincied to sond large volumes of Facebook users personal data to tho USA on the basis
+of standard contractual dlauses (secs) that did not sufficienthy protect individuals privaby rights, exposing.
+that data to potential access by us intelligence agencies. Berause these clauses failed to meet GDpR standards.
+the regulator covicluded that Mota was in breach of Article A6l1) of the GDPR [18], which governs secure
+international data transfers (5]. Also in October 2024, Meta was fined e91 million by the DpC again for storing.
+some. Facebook asers" passwonds in plain text within its intonnal systems. This practice did not meet basic
+security standards, which reguire passwords to be proteoted insing cryptographic inethods (5].
+2.3 Mota's Silent Data Harvesting Algorithmic Practices Explained
+During the carly developunent of Meta's advertising sys tem, Meta introdaced a simall tracking soript Enovon as
+the "Meta pixel (7I, This techmology is desiguied to.obsorve and analyee user behavior, movitoring how visitors
+wavigate websites, interact varth content, and respond to advertiserents. In doing so, it can also fransmit
+highly sensitive information, such as financial:data from tax filing platforms or medical details from healtheare
+websitos, directly into Meta's surveillante-based advertising ecosystem [7].
+In addition, Mota's tracking pixel was secretly sonding data to Meta's owin Android apps by exploiting localhost,
+a feature intended for developer testing [7]. This bypassed Android's app sandboxing, which is designed to
+prevent apps from commuinicating wlth each other and created a hidden data channel between mobile browsers
+and metaapps
+At the saime fime, mota-attempts to connect data from. "anonymous" website visttors to real Meta user
+accounts by usigr signals such as Ip addresses and cookies:[7] meta made this identification maich easier by
+sending daita directly from its tracking pixel to Meta's own apps, where users were already logged in. This meaint
+that even users Who blocked or deleted cookies, used a VPN to hide their Ip address: or browsed in incognito
+mode could stillibe identified [7]. Once this practice was publicly revealed, Meta duickly paused the techntque and
+stated that they were inrdiscussions with Google about "a potential miscommunication regarding the applicafion
+of their policies" [7]
+3. Law, Data Protection, and the Path Forward
+3.1 What Users Can Do to Reduce Data Tracking

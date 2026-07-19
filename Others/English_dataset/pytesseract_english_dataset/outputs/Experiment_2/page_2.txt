@@ -1,0 +1,42 @@
+2. Meta’s Al-Driven Data-Collection.and. Profiling
+
+2:1 How Meta Officially Stores User Data
+
+and location data when enabled. These data types help Meta understand how its services are used a ye they work smoothly
+
+The update also aims to rivacy practices easier to unde a explains that no new data collection methods are being introduced
+
+but existing ones are deseribed more clearly. Users are informed ab i rights, how their iiformation may be shared, and how t
+
+control their privacy through av
+
+2.2 Controversies Over Meta's Sacret’Data' Collection
+
+ough Meta explains its data collection procedures, as de
+2018) the Guardian reported that the'dita analytics firm Cambridge ubich with Donald Trump
+
+campaign, harvested miltons of Facebook profiles without jems that could influence voter behaviour [3]. The data wa!
+taken in early 2014 through a researches’s app and was used to bul cal profiles of individual users. This information was then usedto
+t dvertisements designed to influenc 5 batlot box {3}
+Chr e. a former employee of Cambridge Analytica, reve: profiles of users
+order to influence their {3}: He explained that this 6a d through @ resea app and used to predict and target
+
+people based on their emotions and behaviour. Internal Facebook document howed that by late 2015, the compaty was aware that large
+
+amounts of user data had been collected improperly, but users Were not clearly d and the data was not fully protected
+
+After the misuse became public, Facebook suspended Cambridge Analytica a researcher involved. However, at the time the issue w
+scovered, Facebock initially minimized the of the situation and claimed the data collection followed normal procedures [3]. In reality,
+
+haring the data with third parties v Facebook's own rules, which raised concerns about how well the company controlled access to user
+
+information [3
+
+Concerns about Meta’s data practices continued in later nbser 2022, Meta was fined €265 million by the Irish Data Prote
+Commission after an investigation found that Faceb es, such us search functions and contact importer ts
+sufficient privacy’ safeguards [4]. These features made it, possible for large- amounts of personally identifiable inf
+numbers, and email addresses of hundreds of millions of users to be collected and exposed through data scrapin
+sted GDPR Article 25, which requires data protection by design and by defauii, betause it failed to build
+
+{6 prevent misuse of user data [4
+

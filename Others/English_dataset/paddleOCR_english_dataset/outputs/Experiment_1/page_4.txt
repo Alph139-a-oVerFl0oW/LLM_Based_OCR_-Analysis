@@ -1,0 +1,30 @@
+Even though meta has paused thio specific technique, it is likely that new tracking methods will
+appearover time. Online privacy is harder to protect than it mayseem. Privacysettings alone are
+often not enough to stop companies like meta from collecting uoer data, as they have shown that
+built-in security protections on Android devices can be bypassed. One simple way to reduce
+tracking is to uoe a more privacy friendly browser [6]. Chrome allowo many tracking methods,
+while browsero such as Firefox, Brave, DuckDuckGo, and Gafari offer better protection. Android
+usero canset these browsero as their default, and Apple uoero can rely on Gafari, even though no
+browser can fully block all tracking. Uoing weboites inotead of mobile apps can also help protect
+privacy. Apps uoually have access to more personal information, such as location, device details,
+and connected devices. For activities done only occasionally, like shopping or booking travel,
+websites are generally the safer option [6].
+Removing meta apps from a phone can further limit data collection, as these apps allow deeper
+access to user data [6]. Previous experiences show that these companies cannot be fully truoted,
+as their apps allow them to collect more information than weboites uoually can. Even without
+these apps, meta can still collect data about what usero do online [6]. This is because many
+weboites use meta's tracking tools. Ao a reoult, it io difficult for usero to completely avoid being
+tracked [6].
+3.2 meta Redesigns Ito Data Strategy for Ewropean Uoers
+With all the penalties it hao faced, iometa making a meaningful effort to reform ito data practices?
+After Meta reached a €200 million fine by Ell in April 2025, the company decided to change ito
+rules for Ell users. Meta was fined €200 million under the Ewropean Union's Digital Marketo Act
+(DmA) [8]. The fine was ioued because the Ellstated that meta's "consent or pay" model does not
+comply with the rules of the DmA [8]. Under this syotem, usero of Facebook and Inotagram had
+to either agree to the merging of their personal data for peroonalized advertioing or pay a
+subscription fee to avoid ads [8]. The European Commiosion argued that this model does not
+provide usero with real and freely given consent, which violates DmA requiremento.
+In upcoming January 2026, following the satiofactory concluoion of a montho-long Digital
+markets Act negotiation with the European Commision, Meta will offer European users on
+Facebook and Instagram a new choice that allows reduced data sharing for leso personalized
+advertising [8]. This updated advertising syotem io only for the usero in the European Union.

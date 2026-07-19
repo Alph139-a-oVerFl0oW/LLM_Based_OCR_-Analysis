@@ -1,0 +1,31 @@
+2. Meta's Al-Driven Data Collection and Profiling
+2.1 How Meta Officially Stores User Data
+Arding to Me's official webste,ts privy poly explals whatinformations colleced ro users andwhy it iseedd.Thiincludescontent
+people share on Facebook, such as posts, messages, and profile details, as well as technical information from devices. Meta states that this data
+is used to run the service properly, improve features, keep accounts safe, and show relevant content and advertisements (2]. The policy describes
+different types of stored data in a clear way. This includes basic account details and shared content, information about howusers interact with the
+platform and detajls about connections like friends and followers. It also covers technical data, such as device information, iP addresses, cookies,
+and location data when enabled. These data types help Meta understand how its services are used and ensure they work smgothly [2].
+The update also aims to make privecy practices easier to understand. Meta explains that no new data collection methods are being Introduced
+but existing ones are described more clearly. Users are Informed about their rights, how their information may be shared, and how they can
+control their privacy through available settings and tools [2].
+2.2 Controversies Over Meta's Secret Data Collection
+Mpo     o
+:2018, the Guardian reported that the data analytics firm Cambridge Analytica, which worked with Donald Trump's election team and the Brexit
+campaign, harvested millions of Facebook profiles without user consent to build systems that could influence voter behauiour {3j. The data was
+taken in early 2014 through a researther's app and was used to build psychological profiles of individual users. This information was therrused to
+target political advertisements designed to influence people's choices at the ballot box [3].
+Christophr Wyle, a former eployeef Cambridge Analytia,revealed that Facebook dat was used  create psychological profles of users in
+order to influence their political views [3]. He explained that this data was collected through a researcher's app and used. to predict and target
+people based on their emdtions and behaviour, Internal Facebook documents later showed that by late 2015, the company was aware that jarge
+amounts of user data had been collected improperly, but users were not clearly informed and the data was not (ully protected [3].
+After the misuse became public, Facebook suspended Cambridge Analytica and the rescarcher involved. However, at the time the issue was
+discovered, Facebook initially minimized the seriousness of the situation and claimed the data collection followed normal procedures [3]. In reality,
+sharing the data with third parties violated Facebook's dlwn rules, which raised concerns about bow well the company controlled access to user
+information[3].
+Concerns about Meta's data practices continued in later years. In November 2022, Meta was fined €265 milion by the Irish Data Protection
+Commission after an-investigation found that Facebook features such as search functlons and contact importer tools were designed without
+sufficient privacysafeguards [These features made it possible for lae aounts of personally identifable information (Pil) such as names.
+phone numbers, and emal addresses of hundreds of milions of users to be collected and exposed through data scraping [4]. The DPC concluded
+that Meta violated GDPR Artice 25, which requires data protection by design and by default, because it failed to build adequate technical and
+organizational measures into these systems'to prevenit misuse of user data [4].

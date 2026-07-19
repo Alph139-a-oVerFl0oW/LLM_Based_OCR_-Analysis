@@ -1,0 +1,39 @@
+Wasik Mahir
+
+UCO: 579650
+Exchange Student of Faculty. of Informatics
+
+Smart Everything
+
+Uphill battie - Threats posed by Al to online privacy: Is there hope for
+having:any control over one’s online data trail, when faced by even
+better Al profiling tools?
+
+1. Introduction
+
+Every time a person scrolls through social media, searches the web, or buys.a product online, data
+is quietly created and recorded, Behind these everyday actions, artificial. intelligence systems. are
+constantly at work, analysing behaviour and turning digital traces into.detailed user profiles. The
+growing dependence on artificial intelligence has taken’on an increasingly important ‘ole in the
+digital environment. Online-activities such as browsing websites, using social media, and making
+online purchases generate large amounts of personal data. Al systems are able to analyse this
+data and create detailed profiles about individuals, often predicting their preferences, behaviour,
+or interests. These profiling practices are usually invisible to usefs, who may not be fully aware of
+how much data is collected or how it is processed, As Al technology becomes more advanced,
+concerns about the loss of online privacy and personal control have grown significantly. Therefore,
+the key research question guiding this essay is: Is there hope for having any contro! over one’s.
+online data trail, when faced by even better Al profiling tools?
+
+This essay will examine how major platforms. use artificial intelligence driven data collection and
+profiling techniques to track, predict user behavior and generate revenue through the use of'user
+data. To keep the essay Concise, the analysis will only focus on a large company: Meta. It will begin
+by outlining how Meta’s data storage policy works, beyond their official policy how Meta secretly
+stores user data, the algorithms and techniques they have been using secretly for a long time,
+and how users can protect themselves. In addition, the essay will examine how the law currently
+regulates Meta’s data collection practices and:the ways.in which they may violate laws such as
+the Digital Markets Act (DMA), the General Data Protection Regulation (GDPR). By analyzing these
+cases, the essay aims to answer two subsidiary ‘questions such as: (1) How do Meta’s Al-driven
+data tracking and profiling practices threaten online privacy and weaken users’ control over their.
+online data trail? (2) To what extent do EU data protection laws and enforcement actions provide
+realistic limits on these privacy threats?
+
