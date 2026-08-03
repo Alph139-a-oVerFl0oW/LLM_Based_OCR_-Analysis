@@ -1,0 +1,33 @@
+The new model, which has now been approved after revisions, gives users more control over how
+their data is used [8]. Users can now choose between sharing all their data for highly
+personalized ads or sharing less data for more general ads. This change will replace the old
+“consent or pay” system, which required users to either accept data tracking for personalized ads
+or pay to use the platforms without ads [8]. Without access to highly personal information,
+Meta’s ads will rely on contextual targeting, which means backend engineering work to collect
+different types of data in other ways. For advertisers, it could mean that they see weaker returns
+with targeting, becoming less efficient among users who have declined participation [8].
+
+Henna Virkkunen, Executive Vice President for Technological Sovereignty, Security, and
+Democracy, stated that the Digital Markets Act is built around protecting free choice for both
+businesses and consumers [8]. She emphasized that individuals must have complete control over
+how and when their personal data is used online, while companies should be able to communicate
+freely with their customers [8].
+
+The European Commission also stated that it will continue to monitor Meta’s compliance and
+will collect feedback from Meta and other stakeholders once the model is implemented [8]. With
+limited access to highly personal data, Meta’s ads will increasingly rely on contextual targeting,
+meaning ads will be based more on content and context rather than detailed user profiling [8].
+
+3.3 Legal Heat on Meta
+
+European Union data protection law places strict obligations on platforms that process personal
+data at scale, particularly when automated profiling and artificial intelligence are involved. The
+General Data Protection Regulation (GDPR) requires that personal data be processed
+lawfully, transparently, and for limited purposes (Article 5 GDPR) [9]. Platforms must
+have a valid legal basis for processing data (Article 6) [10], ensure that consent is freely given
+and informed (Articles 4(11) [11] and Article 7 [12]), and provide clear information about
+how personal data is collected, combined, and analysed (Articles 12–14) [13–15]. In the
+context of AI profiling, the GDPR also limits automated decision-making that significantly
+affects individuals (Article 22) [16] and grants users rights to access, rectify, and erase their
+data. Together, these provisions are intended to give individuals meaningful control over their
+online data trail, even when advanced AI systems are used to analyse their behaviour.
