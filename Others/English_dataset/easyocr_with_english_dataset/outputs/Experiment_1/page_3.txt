@@ -1,0 +1,31 @@
+In Way 2023, another incident happened again with Ireland's Data Protection Commission (DFC). The DPC
+fined Meta €1.2 billion for mishandling the personal data of European users, marking the largest penalty ever
+under +he EW's General Data Protection Regulation (GDPP) [5]. The fine came after long investigation into
+how the company transferred user data from the EU +o the United States of America without adequate
+safeguards, despite a European Court of Justice ruling requiring strong Protections for such transfers [5]. The
+DPC found +hat Weta continued +0 send large Volumes of Facebook users' personal data +o the USA on +he basis
+of standard contractual dauses (SCCs) +hat did no+ sufficiently Protec+ individuals' Privacy rights, exposing
+that data +o Potential access by US intelligence agencies Because +hese clauses failed +o meet GDPR standards,
+the regulator concluded that Meta was in breach of Article 46(1) of the GDFR [18], which governs secure
+international data transfers [5]. Also in October 2024, Meta was fined €91 million by +he VPC again for storing)
+some Facebook users' Passwords Plain +ext within its internal systems. This Practice did not meet basic
+security standards, which require Passwords +o be Protected using cryptographic methods [5].
+2.3 Meta's Silent Vata Harvesting Algorithmic Practices Explained
+During te early development of Meta's advertising system, Meta introduced small +racking script known as
+the "Weta Pixel" [7]. This technology is designed +o observe and analyze user behavior , monitoring how visitors
+navigate websites, interact with conteMt and respond +o advertisements In doing so, it can also transmit
+highly sensitive information, such as financial data from +ax filing) Platforms or medical details from healthcare
+websites, directly into Meta's surveillance-based advertising ecosystem [7].
+In addition, Meta's +racking Pixel was secretly sending data +o Meta's own Android apPs b4 exploiting localhost,
+a feature intended for developer testing [7]. This bypassed Android's aPP sandboxingy which is designed +o
+Preven+t apps from communicating with each other and created hidden data channel between mobile browsers
+and Weta aPPS.
+#Af the same +ime, meta-attempts +o connec+ data from anonymous website visitors +o real Weta user
+accounts by using signals such as IF addresses and cookies [7]. Weta made this identification much easier by
+sending data directly from its tracking Pixel +o Weta's own apPs, where users were already logged in This meant
+that even users who blocked deleted cookies, used a VFN to hide their IP address, or browsed in incognito
+mode could still be identified [7]. Once +his Practice was Publicly revealed, Meta quickly Paused +he +echvique and
+stated that +hey were in discussions with Google about Potential miscommunication regarding the application
+of +heir Policies (7].
+3. Law, Vata Protection, and +he Path Forward
+31 What Users Can Vo +o Peduce Vata Tracking

@@ -1,0 +1,31 @@
+Iu May-2023, avother incidcut happcved agin With Irelawjs Vata Frorcnon Commissin (VPC}: The DPC
+fined #eta €1.2 Inllioii for mishawiling #nc persongl data of Europcan "sers,markig #hc largest Pewalty cver
+uwcr_thc Els Gcncral Vata Protecton Regulation (GDYR) [5) Thc fnic cam after 4 b1) iwvesngatioi into
+how mhe cohipany transfcrred uscr data fron the {u to the Wited Statcs f America without Gacouate
+Sufeguards. Bespit6 & Europcan Court of Justice ruling rcowring strong Protcctions for swh traisfcrs [5] Thc
+DPC foutid +hat Micta coutmuca +o scwd large Voluines of Fatcbook uscrs' Persoial data +o thc USA 0  #he basis
+of stavdard (ontratual clauses (SCCs) thit da vot sufficicutly Protect ivdivduals' Privocy nahts, exposuug
+thet data+o potantial acess b4US "tcllgcnce agcicies Bcause these dauses faicd +o mnce+ GDFR standaras;
+thc regulator-concluded that Mcta was brcoch of Article 46(1) of +e GDPR [18], which Spvcr"s sccure
+Intenianional data +ransfers [5] Also I Octoocr 2024,Mctawas fjncd €91 mMton 14 thc VPC agan for storiig
+Some Faccbook uScrs Passvords-iM Plaim tex+ vithm Mtemial sustenis. This Practke da vot mect basic
+saurity srandards Khich rcouirc passwords to be Protected uSing) (ryPto9r @phC mncthjous [5}.
+23 Mctas Silent Data Harvesting Alcorithmic Practices Explained
+Dnig +c carl developmncnt bf Mcta's alvertismo sysfem; Mera introdued ^ smnall trakng script biwM as
+the "Mera Pucl [7]. This tcckmnolco is @csisncd +o obscrve and analuec uscr bchavior , Monitoni) hiow Misitors
+navigate wcbsitcs; IMtcract with coutent aua 'cspond + advcrtiscmcnts In doing s0; It caw also transmif
+Wohk sensinye wformatioy Shen a5 fuaiial'data froin tax Glir ) platformis orimcexatuctails from hoalthcare
+welsitcs;drrectl isto Wcta's surycilante-bascd adver tising ccosystcm [71.
+In addition, Meta's frarking Pixcl was sarctl sending data +o Wctas own Audrord aP+s 1/ cxplolting localhost,
+fcature inteidco for dvclopcr tesh [71 This bipasscd Awrow's @PP_sanboxlvg)  which is dcsiguca +o
+Prcvent apPs from commimtatjg witn cach pthcr and crcatca hidccn dararhawncl betwecn molle browsers
+mua Mcta @PPs:
+#t te 'Same 'time, mcta-attcmets to Cowncct Gatafroln akowmous wchstte visttors to rcal Mcra Aser
+actoints brusmg sigis Sih a5 IP adarcsscs ai cookics {7]. Wkefa' mnac this ientification Yach casierby
+scndng dataaretly fromits tradang pixel to Mcta s owi aPPS; vhcre uscrs were alrcad (loggca j This micaut
+thon Cven 'users vho blockaa Rktcd rockcs, used a VTn to hidc thclr IP addrcss  or 'browscd incoguito
+mosc could stillbc idcntificd (7] Oue +Vils Practiic was Publcl rcvcalcd; Mcta ~lckly pauscdthc tuhniouc aud
+ratcd Mat mhcy Kercindiscussious with Gocgle alout apotential miscommimacationregardin) +hc apPlcation
+of +cir Polkics" [7]
+3 Law Data Protectioh, and m6 Path Forward
+3+ mhat Uscrs Can Vo +o Reuce Data Tracbng

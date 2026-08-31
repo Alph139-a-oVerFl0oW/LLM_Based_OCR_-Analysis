@@ -1,0 +1,31 @@
+2. Meta's Al-Driven Data Collection and Profiling
+2 1 Mov Meta Omncially Store: Uscr Date
+According {0 Metas dficial wbslte; Its ptivacy polky @ plains what Information cdllectedhon usets @nd whyitknceded Inisinclucescontent
+pecole share o facebook; such "s posts , messoges and protile Oetalls wel as technical information tromn devces Meta states that this dato
+is usediorunthe servce picperlye Improveteatufes Lepp accounts sale, ond showrelevant content and aqvertisements {2| Ihe policy de cribes
+ciferent types of storcd dataIn 0 clcar wayIhs includes busx account delalls and shared contenl Information abour how uscrs Interc; witblk
+plottorm and deta s about connections Bke Inendsand lolloverItalsocovers technical data soch as deviceintcrmation, 'P addresses; cookies
+and location data when rnabledIhese data typeshelp Meta understand how Isservkes afe (Retandensue theywok smoothly [2]
+Ihi update also ams t0 make Ofivacy pracnices cosier {0 undentand Meta €xplains thal no new dota collection methods ore bcing Introdued
+but eusting ones ar€ descrbed more dcarly User are Inlamed about Ihek nghts, how thelr Inlomation mar be shared, and hawv they can
+controltheir pnivocy throuch ovallabk ettingz and took [?]
+2 2 Controvenles Over Mete, Secret Data Collechon
+Eventhough Metae plainsits data collection proccdutes asdescribedinthe prevous sectioninreality Kspractices lelladiftferent story In March
+2018 the Guardan reporled that the dota analtics hrm Cambridge Analytica, whkh worked wth Donold Trumnp' lection team andthe Brent
+camosign hanested mlllons € Facebook prohiles without User consent {0 bulld sysiems {hat could Iniluence vater behanour {3] The data Was
+tovenneuly 2014 through rcscarchcr'$ OPP and was used [0 buld psychologlcsl 'prohles 0f individual usel < Ihis Informdon was thnused [0
+larget political advertisemens desgned to Influence "propk s choices at the balot bo* [3]
+Christopher Wlie tormer employceof Cambrldge Analuca revcaled that focebock dato vas Used t0 crcate psychdogical profdesofusersin
+ordcr to infuucncetheir poltical vews (3]-He explained that this dat, Was colleded throuch researchr JPp and Ued {o predict and target
+people ba edon their emotions and bchviour Internal Facebook documents later showed that br bate 2015 the company ias aware that larse
+omounts ofuser dtohod bcencolleaedimpropery but Usefs Wefe not cleorynlormedond e data wasno luly protected (31
+After Ike mkusc bccanw publc. Faccbook suspcnded Camnbridgc Andytica and Uc icscarcher InOvco Howevcr; Uhc time {he Issur was
+discovcied Foccbook innall mnimized {he scriousnessol (hutuallon andcloimedthe data colecnon lollowed nonmal procedures (3| Inreolty
+sharng the daia Kith third prrnes violated Faccbook $ Ounrules,hich ralsed concerns about how well (ne comrpany contrdled access [o user
+inlomation (3]
+Concems about Meta'$ Dala prachices connnucd in latcr Years In November 2022 Meto vas fnned (26S mllion by Ihe Irish Data Protechon
+Commission aher an Investigation lound thol Foccbook leotres suh scafch 'unctions and contoct Importe lools were deslgned Mthout
+sutfxcient Pnvacy sefeguards k] Inese leatures made It possible {or large amounts 01 personaly Idanatable Infomwion (PU} such 0s names
+phone numbers; and emal add esses of hundreds ofmilions of uscrstobe collected ondexposed through dala scrping (e] Ihe OPC concluded
+that Meta viobted GOPR Ntkcle 25, whkh requres data prctechon by deslen ond by defaut becouse ({ failedt0 buk adequate (cchnical and
+organizational measures nnto these syttemst0 prcvent misuse @uver Oata ( }
